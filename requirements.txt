@@ -1,0 +1,6 @@
+flask==2.3.0
+SQLAlchemy==1.4.4  # Use the latest patch version within the 1.4 series
+werkzeug==2.3.0
+Flask-Cors==4.0.0
+Flask-SQLAlchemy==3.1.4  # Use the latest patch version within the 3.1 series
+Flask-Migrate==4.0.5
